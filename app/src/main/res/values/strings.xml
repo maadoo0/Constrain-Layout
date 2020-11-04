@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SecondApp</string>
+    <string name="decription">My Second App With Constrain Layout</string>
+    <string name="hint">Enter Your Name </string>
+    <string name="Welcome_Msg">Welcome Message</string>
+</resources>
